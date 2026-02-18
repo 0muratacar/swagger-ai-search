@@ -1,0 +1,23 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# npm
+*.tgz
+
+# Debug logs
+npm-debug.log*
