@@ -1,6 +1,6 @@
 {
   "name": "swagger-ai-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI-powered endpoint search for Swagger UI. Works with NestJS and Express.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

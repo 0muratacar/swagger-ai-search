@@ -7,10 +7,10 @@ Works with **NestJS** and **Express**.
 ## Screenshots
 
 ### English
-![English Usage](./screenshots/english-use-case.png)
+![English Usage](https://raw.githubusercontent.com/0muratacar/swagger-ai-search/main/screenshots/english-use-case.png)
 
 ### Turkish
-![Turkish Usage](./screenshots/turkish-use-case.png)
+![Turkish Usage](https://raw.githubusercontent.com/0muratacar/swagger-ai-search/main/screenshots/turkish-use-case.png)
 
 ## Installation
 
