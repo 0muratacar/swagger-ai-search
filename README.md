@@ -4,6 +4,14 @@ AI-powered endpoint search for Swagger UI. Ask questions in natural language, ge
 
 Works with **NestJS** and **Express**.
 
+## Screenshots
+
+### English
+![English Usage](./screenshots/english-use-case.png)
+
+### Turkish
+![Turkish Usage](./screenshots/turkish-use-case.png)
+
 ## Installation
 
 ```bash
